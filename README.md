@@ -11,7 +11,9 @@ img2pdf - for convetion
 
 ## Usage
 
-Copy script to an empty folder (folder containing script will be filled with folder and `*.pdf` files), run script with `python3 ppeppercarrot_downloader.py`.
+Run script with `python3 ppeppercarrot_downloader.py`.
+
+**CAUTION**: The working directory (`pwd`) will be used to store downloaded files (folders containing webcomic pages and converted `*.pdf`s)
 
 ## Updates
 
