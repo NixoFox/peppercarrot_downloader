@@ -6,7 +6,7 @@ A simple short python script to download all episodes of Pepper and Carrot "A fr
 
 ```
 wget - for downloads (you can switch to curl by changing "dl_option" variable to "curl -o ")
-img2pdf - for convetion
+img2pdf - for convertion
 ```
 
 ## Usage
